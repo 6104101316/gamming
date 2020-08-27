@@ -30,7 +30,7 @@
           <br />
           <br />
           <br />
-          <br />
+        
 
           <img
             class="rounded mx-auto d-block"
